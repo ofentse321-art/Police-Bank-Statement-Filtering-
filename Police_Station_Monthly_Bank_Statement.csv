@@ -1,0 +1,16 @@
+Transaction_ID,Date,Account_Number,Officer_Name,Transaction_Type,Amount,Bank_Name,Branch,Description,Approval_Status,Balance_After,Reference_Code,Processed_By,Transaction_Mode,Cleared,Currency,Day,Month,Year,Comments
+TXN0001,2025-04-01,PSB1000,Tom Hanks,Withdrawal,30980.79,Standard Bank,Durban,Equipment,Approved,80066.68,REF1000,Admin3,Cash,True,ZAR,Tuesday,April,2025,
+TXN0002,2025-04-02,PSB1001,Eva Green,Withdrawal,7835.2,Standard Bank,Cape Town,Equipment,Approved,62566.2,REF1001,Admin2,Card,True,ZAR,Wednesday,April,2025,Reviewed
+TXN0003,2025-04-03,PSB1002,Alice Brown,Withdrawal,15315.09,First National Bank,Pretoria,Maintenance,Approved,92998.58,REF1002,Admin3,Online,True,ZAR,Thursday,April,2025,
+TXN0004,2025-04-04,PSB1003,Eva Green,Payment,18951.73,Standard Bank,Johannesburg,Equipment,Rejected,66852.32,REF1003,Admin1,Cheque,True,ZAR,Friday,April,2025,
+TXN0005,2025-04-05,PSB1004,Eva Green,Payment,23347.43,First National Bank,Cape Town,Equipment,Approved,91921.17,REF1004,Admin1,Cheque,True,ZAR,Saturday,April,2025,Reviewed
+TXN0006,2025-04-06,PSB1005,Jane Smith,Deposit,39473.62,Standard Bank,Johannesburg,Maintenance,Approved,85753.66,REF1005,Admin2,Card,False,ZAR,Sunday,April,2025,Follow-up required
+TXN0007,2025-04-07,PSB1006,Alice Brown,Deposit,10784.02,ABSA,Johannesburg,Maintenance,Approved,47697.81,REF1006,Admin3,Cheque,True,ZAR,Monday,April,2025,Follow-up required
+TXN0008,2025-04-08,PSB1007,Alice Brown,Payment,26197.49,ABSA,Cape Town,Salary,Rejected,14063.96,REF1007,Admin3,Online,False,ZAR,Tuesday,April,2025,Follow-up required
+TXN0009,2025-04-09,PSB1008,Alice Brown,Withdrawal,30028.31,Capitec,Cape Town,Travel,Approved,40227.73,REF1008,Admin2,Card,True,ZAR,Wednesday,April,2025,Follow-up required
+TXN0010,2025-04-10,PSB1009,Eva Green,Withdrawal,3276.07,ABSA,Cape Town,Travel,Approved,68539.92,REF1009,Admin3,Online,True,ZAR,Thursday,April,2025,Follow-up required
+TXN0011,2025-04-11,PSB1010,Tom Hanks,Deposit,30769.7,Capitec,Cape Town,Equipment,Rejected,68262.62,REF1010,Admin3,Card,True,ZAR,Friday,April,2025,Reviewed
+TXN0012,2025-04-12,PSB1011,Alice Brown,Payment,9355.68,ABSA,Cape Town,Travel,Rejected,61173.29,REF1011,Admin1,Card,False,ZAR,Saturday,April,2025,Reviewed
+TXN0013,2025-04-13,PSB1012,Eva Green,Deposit,4187.53,First National Bank,Johannesburg,Equipment,Rejected,31098.57,REF1012,Admin3,Cash,False,ZAR,Sunday,April,2025,Urgent
+TXN0014,2025-04-14,PSB1013,Jane Smith,Deposit,47495.39,ABSA,Cape Town,Salary,Approved,58318.13,REF1013,Admin3,Online,False,ZAR,Monday,April,2025,Follow-up required
+TXN0015,2025-04-15,PSB1014,Tom Hanks,Transfer,48315.97,Capitec,Pretoria,Maintenance,Rejected,41378.05,REF1014,Admin2,Cheque,False,ZAR,Tuesday,April,2025,Reviewed
